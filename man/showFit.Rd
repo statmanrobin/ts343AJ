@@ -1,11 +1,14 @@
 \name{showFit}
+
 \alias{showFit}
+
 \title{Formatting fitted ARIMA models}
+
 \description{
 This function is used to display fitted ARIMA models in various formats
 }
 \usage{
-  showFit(model, form = “list”)
+  showFit(model, form = "list")
 }
 \arguments{
   \item{model}{an object of class “arima”. For example, model produced by the Arima() function}

@@ -111,3 +111,5 @@ showFit = function(model, form = "list"){
     }
     
   }
+  
+}
